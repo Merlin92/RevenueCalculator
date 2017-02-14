@@ -1,0 +1,19 @@
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_1\rev_calc\Rev_Calc\Rev_Calc\bin\Debug\Rev_Calc.exe.config
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_1 copy\rev_calc\Rev_Calc\Rev_Calc\bin\Debug\Rev_Calc.exe.config
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_1 copy\rev_calc\Rev_Calc\Rev_Calc\obj\Debug\Rev_Calc.csprojResolveAssemblyReference.cache
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_1 copy\rev_calc\Rev_Calc\Rev_Calc\obj\Debug\Rev_Calc.Form1.resources
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_1 copy\rev_calc\Rev_Calc\Rev_Calc\obj\Debug\Rev_Calc.Properties.Resources.resources
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_1 copy\rev_calc\Rev_Calc\Rev_Calc\obj\Debug\Rev_Calc.csproj.GenerateResource.Cache
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_1 copy\rev_calc\Rev_Calc\Rev_Calc\bin\Debug\Rev_Calc.exe
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_1 copy\rev_calc\Rev_Calc\Rev_Calc\bin\Debug\Rev_Calc.pdb
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_1 copy\rev_calc\Rev_Calc\Rev_Calc\obj\Debug\Rev_Calc.exe
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_1 copy\rev_calc\Rev_Calc\Rev_Calc\obj\Debug\Rev_Calc.pdb
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_sm\rev_calc\Rev_Calc\Rev_Calc\bin\Debug\Rev_Calc.exe.config
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_sm\rev_calc\Rev_Calc\Rev_Calc\obj\Debug\Rev_Calc.exe
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_sm\rev_calc\Rev_Calc\Rev_Calc\obj\Debug\Rev_Calc.pdb
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_sm\rev_calc\Rev_Calc\Rev_Calc\bin\Debug\Rev_Calc.exe
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_sm\rev_calc\Rev_Calc\Rev_Calc\bin\Debug\Rev_Calc.pdb
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_sm\rev_calc\Rev_Calc\Rev_Calc\obj\Debug\Rev_Calc.csprojResolveAssemblyReference.cache
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_sm\rev_calc\Rev_Calc\Rev_Calc\obj\Debug\Rev_Calc.Form1.resources
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_sm\rev_calc\Rev_Calc\Rev_Calc\obj\Debug\Rev_Calc.Properties.Resources.resources
+C:\Users\Merlz\Dropbox\Uni\Courses\Business Applications Programming\Assignments\Assign_2\calc_sm\rev_calc\Rev_Calc\Rev_Calc\obj\Debug\Rev_Calc.csproj.GenerateResource.Cache
